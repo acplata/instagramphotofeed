@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+    background-color: lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-title {
+    background-color: white;
+}
+.main-tile-h1 {
+    width: 600px;
+    margin: 0px auto;
+}
+
+.photo-feed {
+    border: 1px solid black;
+    width: 600px;
+    margin: 0px auto;
+    margin-top: 30px;
+}
+
+.first-box {
+    background-color: white;
+   
+}
+.first-box-title {
+    display: flex;
+    margin: 0px;
+}
+.first-photo-title {
+    margin-right: auto;
+    margin-left: 10px;
+}
+.first-page-number {
+    color: gray;
+   
+}
+.first-image img {
+    width: 100%;
+ 
+}
+.footer {
+    padding: 10px;
+    margin: 0px;
+}
